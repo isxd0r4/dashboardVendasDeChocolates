@@ -2,7 +2,7 @@
 Este repositório contém um relatório interativo desenvolvido no Power BI para a análise de vendas globais de chocolates. O objetivo deste projeto é transformar dados brutos em informações estratégicas, permitindo acompanhar indicadores de desempenho comercial, faturamento, produtos mais vendidos e performance dos vendedores.
 
 ## Fonte de dados
-O conjunto de dados utilizado neste projeto foi extraído do Kaggle: [Chocolate Sales - Kaggle] (https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales)
+O conjunto de dados utilizado neste projeto foi extraído do Kaggle: (Chocolate Sales - Kaggle)[https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales]
 Os dados compreendem registros históricos detalhados de transações de vendas de chocolate entre os anos de 2022 e 2025, cobrindo métricas geográfica, produtos, faturamento, volume e desempenho de representantes de vendas.
 
 ## Estrutura do dashboard
