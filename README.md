@@ -26,5 +26,5 @@ Esta página pe voltada para a análise do time de vendas e a saída de mercador
 ## Como executar o projeto
 1. Instale o `Power BI Desktop` em sua máquina
 2. Faça o download ou clone este repositório em sua máquina local
-3. Abra o arquivo com extensão `.pbix`no Power BI Desktop7
+3. Abra o arquivo com extensão `.pbix` no Power BI Desktop
 4. Explore o dashboard e suas análises interativas
